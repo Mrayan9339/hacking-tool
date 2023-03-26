@@ -1,3 +1,17 @@
+apt update
+
+apt install git
+
+git clone https://github.com/rixon-cochi/hacking-tool.git
+
+cd hacking-tool
+
+bash install.sh
+
+bash tools.sh
+
+sh tools.sh not work
+
 #!/bin/bash
 # version 2.0
 
